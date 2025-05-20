@@ -1,6 +1,6 @@
 # Welcome to My Digital Playground
 
-## 8+ Years of Professional Experience | 80+ Successful Projects | Scalable & High-Performance Solutions
+## 8+ Years of Professional Experience | Scalable & High-Performance Solutions
 
 This is **Ibnul Quayum Imran**, passionate Full-Stack Developer with over 9 years of experience in the software industry. I specialize in building large-scale, high-performance applications that streamline workflows, enhance user experience, and drive business success.
 
