@@ -2,7 +2,7 @@
 
 ## 8+ Years of Professional Experience | Scalable & High-Performance Solutions
 
-This is **Ibnul Quayum Imran**, passionate Full-Stack Developer with over 9 years of experience in the software industry. I specialize in building large-scale, high-performance applications that streamline workflows, enhance user experience, and drive business success.
+This is **Ibnul Quayum Imran**, passionate Full-Stack Developer with over 8 years of experience in the software industry. I specialize in building large-scale, high-performance applications that streamline workflows, enhance user experience, and drive business success.
 
 🔹 My Expertise & Focus Areas<br/>
 ✔ Enterprise Automation: Large-scale ERP, SaaS, and Admin Automation for businesses.<br/>
